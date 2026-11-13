@@ -1,4 +1,4 @@
-# Hi, I'm Rahul (rny0007) 👋
+# Hi,👋
 ### Systems Engineer, Network Enthusiast & Full-Stack Developer
 
 [![GitHub Followers](https://img.shields.io/github/followers/rny0007?style=social)](https://github.com/rny0007)
