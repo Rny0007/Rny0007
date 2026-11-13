@@ -34,12 +34,21 @@
 > **Comprehensive operational reference for MediaTek MT7986 (Filogic 830) Wi-Fi 6 routers (Jio JIDU6101/6201, GL-MT6000, BPI-R3).**  
 > Covers root SSH unlocking, split-DNS (AdGuard Home + Dnsmasq), Apple Automatic DNS fixes, Wi-Fi 6 160MHz tuning, and multi-tier failsafe recovery.
 
+### 🛡️ [OpenWrt Packet Warden](https://github.com/Rny0007/openwrt-packet-warden)
+> **Automated wire-level DHCP Option 6 and DNS listener diagnostic tool for OpenWrt nodes.**  
+> Crafts RFC 2131 DHCPINFORM probes to audit DNS server delivery, port 53/5353 listeners, and Apple captive portal compliance.
+
+### 🔒 [Git Audit Patrol](https://github.com/Rny0007/git-audit-patrol)
+> **Zero-dependency pre-commit hook and repository auditor for secrets and private keys.**  
+> Automatically blocks accidental commits containing RSA/SSH keys, GitHub tokens, AWS credentials, and unencrypted `.env` files.
+
+### ⚙️ [Env Vault Guard](https://github.com/Rny0007/env-vault-guard)
+> **Lightweight CLI validator for environment variables against `.env.example` templates.**  
+> Ensures pre-flight configuration hygiene before production deployments by detecting missing or blank variables.
+
 ### 🎨 [IDPrint Studio](https://github.com/Rny0007/idprint)
 > **Client-side PVC and paper card formatting and high-DPI layout utility.**  
 > Built with zero external dependencies using the HTML5 Canvas API for private, in-browser identity document formatting.
-
-### 🛡️ [OpenWrt Packet Warden](https://github.com/Rny0007/openwrt-packet-warden)
-> **Automated network triage and DHCP Option 6 verification probe for OpenWrt nodes.**
 
 ---
 
